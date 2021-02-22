@@ -6,11 +6,5 @@ When you are in a growth mindset, it puts you in a headspace where you can push 
 - Learn from your mistakes (failure is the greatest teacher)
 - Encourage asking for help, and turning to others for answers
 
-## Heading 2
-* Item 1
-* Item 2
-* Item 3
-### Heading 3
-#### Heading 4
 #### External Link
 [Link to a blog explaining Growth Mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
