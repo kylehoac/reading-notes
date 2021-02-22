@@ -8,9 +8,5 @@
 * Item 3
 ### This is a heading 2
 #### heading 4
-'''python
-  def HELLO_WORLD():
-   print('Hello World')
-'''
 #### External Link
-[This is a link to a Star Wars page] (https://Starwars.com/)
+[This is a link to a Star Wars page](https://Starwars.com/)
