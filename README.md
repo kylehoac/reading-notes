@@ -1,5 +1,5 @@
 # Growth Mindset
-When you are in a growth mindset, it puts you in a headspace where you can push yourself to learn new things, and accept that __*failure is a part of the learning experience*__. This mindset is essential for success in every field of work, and allows you to overcome any obstacles that may be in your way. 
+When you are in a growth mindset, it puts you in a headspace where you can push yourself to learn new things, and accept that __*failure is a part of the learning experience*__. This mindset is essential for success in every field of work, and allows you to overcome any obstacle that you may come across. 
 
 ## How do you maintain a growth mindset?
 - Stay positive
