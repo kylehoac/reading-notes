@@ -1,9 +1,11 @@
 # Growth Mindset
-A growth mindset is a mindset where you are able to push yourself to learn new things, and accept that failure is a part of the learning experience.
-## I want to keep myself in a growth mindset.
-- I can stay posivite
-- I can continue to learn
-- I can encourage others
+When you are in a growth mindset, it puts you in a headspace where you can push yourself to learn new things, and accept that failure is a part of the learning experience. This mindset is essential for success in every field of work, and allows you to overcome any obstacles that may be in your way. 
+
+## How do you maintain a growth mindset?
+- Stay positive
+- Learn from your mistakes (failure is the greatest teacher)
+- Encourage asking for help, and turning to others for answers
+
 ## Heading 2
 * Item 1
 * Item 2
