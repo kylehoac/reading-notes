@@ -1,2 +1,3 @@
-Reading notes for our second reading
+This is where I'm documenting reading notes for my lab.
+
 [<==Back](README.md)
