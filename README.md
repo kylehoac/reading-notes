@@ -7,3 +7,6 @@ When you are in a growth mindset, it puts you in a headspace where you can push 
 - Encourage asking for help, and turning to others for answers
 
 [Link to a blog explaining Growth Mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+
+### About Me
+My name is Kyle Hoac, and I am currently an aspiring software developer studying with Code Fellows. I was previously employed in the sales industry, however with the pandemic, I've been forced to My goal is to learn how to create, or improve upon current real world applications.
