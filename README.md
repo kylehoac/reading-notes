@@ -3,5 +3,8 @@
 - I can stay posivite
 - I can continue to learn
 - I can encourage others
+* Item 1
+* Item 2
+* Item 3
 ### This is a heading 2
 ##### heading 6
