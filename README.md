@@ -12,3 +12,5 @@
   def HELLO_WORLD():
    print('Hello World')
 '''
+#### External Link
+[This is a link to a Star Wars page] (https://Starwars.com/)
