@@ -16,6 +16,4 @@ When you are in a growth mindset, you are in a headspace where you can push your
 
 My name is Kyle Hoac, and I am currently an aspiring software developer studying with Code Fellows. I was previously employed in the sales industry, however the pandemic gave me an opportunity to explore other careers (currently giving software development a shot). You can view more of my work on my [Github profile](https://github.com/kylehoac).
 
-#### Table of Contents
-
 [<== Back to Main Page](README.md)
