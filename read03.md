@@ -78,3 +78,5 @@ Remote repositories are versions of a project that reside online or on a network
 
 * Running the *git remote* command allows you to view the shortnames of all specified remote handles
 * Running the *git remove -v* command wil allow you to view all remote URLs next to their short names
+
+[<== Back to Main Page](README.md)

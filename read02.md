@@ -35,4 +35,4 @@ A command line or terminal is a text based interface, that allows you to navigat
 - Mv - move files (2 arguments just like cp)
 - cd - - takes you back to the folder you were just at (used to switch between 2 folders)
 
-[<==Back](README.md)
+[<== Back to Main Page](README.md)
