@@ -29,3 +29,5 @@ __*CSS3 introduces hsl color property*__
 - Lightness is expressed as a percentage (0% being white, 50% being normal, 100% being black)
 
 - You can also change the opacity by using the opacity property (values range from 0.0 to 1.0)
+
+[<== Back to Main Page](README.md)
