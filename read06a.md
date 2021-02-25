@@ -1,4 +1,4 @@
-# Reading notes 06
+# Reading notes 06a
 
 __*How do HTML CSS AND JS interact with eachother*__
 
