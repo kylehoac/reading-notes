@@ -27,7 +27,7 @@ __*Loops and Loop counters*__
 
 - Loop checks a condition. If it returns true, a code block will run. It will then check a condition again, and if it still returns true, then the code block will run again. This will continue looping until the condition returns false.
 
-Types of loops include :
+Types of loops include:
 
 - *for* - Used for if you need to run a code a specific number of times. The condition is usually a counter which is used to tell how many times to run a loop Ex: for (var i = 0; i < 10; i++>). This code would write 0123456789 on the page with a document.write(i) code following it.
 

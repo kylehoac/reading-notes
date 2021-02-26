@@ -12,7 +12,7 @@ __*JavaScript*__
 - Program rules or instructions the browser can follow
 - React to events triggered by the user or browser
 
-*What is a script?*
+*What are scripts?*
 
 - A series of instructions that a computer can follow to achieve a goal
 - A browser will use diferent parts of the script depending on how the user interacts with the page
@@ -64,11 +64,11 @@ __*Functions*__
 
 Functions let you group a series of statements together to perform a specific task. If different parts of a script repear the same task, you can reuse the function instead of repeating the same set of statements
 
-- Grouping together statements that are required to answer a question or perform a task helps organize code
+- Grouping together statements that are required to answer a question or perform a task helps organize code.
 
 - The statements in a function are not always executed when a page loads, so they can also be used to store the steps needed to complete a task. The script can ask the function to perform all of the statements within it when they are required.
 
-- In order to make a function perform a task you need to give it a name that resembles what type of task its performing. When you ask a function to perform said task, it is called calling a function
+- In order to make a function perform a task you need to give it a name that resembles what type of task its performing. When you ask a function to perform said task, it is called calling a function.
 
 - The steps that a function needs to perform to do a task are packaged in a code block ( a code block consists of one or more statements contained within curly braces)
 
@@ -89,3 +89,5 @@ __*Calling a Function*__
 Parameters vs Arguments
 
 - While some people use the terms interchangably, however there are subtle differences. A parameter is used like a variables, whereas an argument calls for the actual value of said variables
+
+[<== Back to Main Page](README.md)
