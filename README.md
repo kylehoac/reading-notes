@@ -26,10 +26,9 @@ My name is Kyle Hoac, and I am currently an aspiring software developer studying
 
 #### __Code 201 Reading Notes__
 
-
 ##### __Table of Contents : Course 201__
 
-[==> Reading Notes 1]
+[==> Reading Notes 1](read1.md)
 
 [==> Reading Notes 2]
 
