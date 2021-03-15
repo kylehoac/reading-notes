@@ -106,7 +106,7 @@ Pseudo classes that allow the appearance of the element change when the user int
 > :hover , :active , :focus
 
 ## Attribute Selectors
-
+<!-- took these basically word for word on page 292 of Jon Duckets HTML&CSS -->
 existence - Matches a specific attribute.
 > [] - p [ class ] targets all p elements with the attribute class
 
