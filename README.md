@@ -42,7 +42,7 @@ My name is Kyle Hoac, and I am currently an aspiring software developer studying
 
 [==> Reading Notes 7](read7.md)
 
-[==> Reading Notes 8]
+[==> Reading Notes 8](read8.md)
 
 [==> Reading Notes 9]
 
