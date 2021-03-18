@@ -12,7 +12,7 @@ Tables display information in a grid format
 To have an entry stretch more than one column you use the colspan attribute
 
 To have an entry stretch more than one row you use the rowspan attribute
- 
+
 Headings of a row should sit in the < thead > element, while the body should sit in < tbody > and the footer should sit in the < tfoot >
 
 ----------------------------------------------------------------------------------------
