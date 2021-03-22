@@ -73,7 +73,7 @@ Focus Events (when an element gains or loses focus)
 > focus , blur
 
 Form Events
-> input, change, ssubmit, reset, cut, copy, paste, select
+> input, change, submit, reset, cut, copy, paste, select
 
 Mutation Events (events that change the dom structure by script)
 > DOMSubtreeModified, DOMNodeInserted, DOMNodeRemoved, DOMNodeInsertedIntoDocument, DomNodeRemovedFromDocument
