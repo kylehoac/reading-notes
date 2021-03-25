@@ -1,4 +1,4 @@
-# Reading Notes 12 Course 201
+# Reading Notes 13 Course 201
 
 __*What is HTML5 Storage (local storage)*__
 HTML5 Storage, commonly referred to as local storage, is a way for web pages to store key/value pairs locally within the web browser. This data persists even after navigating off of the website, closing the time, or closing the browser.
