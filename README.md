@@ -6,7 +6,7 @@ My collection of reading notes for Code Fellows 102, and 201 courses
 
 My name is Kyle Hoac, and I am currently an aspiring software developer studying with Code Fellows. I was previously employed in the sales industry, however the pandemic gave me an opportunity to explore other career paths. You can view more of my work on my [Github profile](https://github.com/kylehoac).
 
-### __Table of Contents : Course 102__
+## __Code 102 - Intro to Software Development__
 
 [==> Reading Notes 1](read01.md)
 
@@ -24,9 +24,7 @@ My name is Kyle Hoac, and I am currently an aspiring software developer studying
 
 [==> Reading Notes 8](read08.md)
 
-#### __Code 201 Reading Notes__
-
-##### __Table of Contents : Course 201__
+## __Code 201 - Foundations of Software Development__
 
 [==> Reading Notes 1](read1.md)
 
@@ -54,6 +52,16 @@ My name is Kyle Hoac, and I am currently an aspiring software developer studying
 
 [==> Reading Notes 13](read13.md)
 
-[==> Reading Notes 14]
+## Code 301 - Intermediate Software Development
 
-[==> Reading Notes 15]
+[==> Reading Notes 1](301read1.md)
+
+[==> Reading Notes 2](301read2.md)
+
+[==> Reading Notes 3](301read3.md)
+
+[==> Reading Notes 4](301read4.md)
+
+[==> Reading Notes 5](301read5.md)
+
+## Code 401 - Advanced Software Development
