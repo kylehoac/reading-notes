@@ -74,6 +74,6 @@ My name is Kyle Hoac, and I am currently an aspiring software developer studying
 
 [==> Reading Notes 10](301read10.md)
 
-[==> Reading Notes 10](301read11.md)
+[==> Reading Notes 11](301read11.md)
 
 ## Code 401 - Advanced Software Development
