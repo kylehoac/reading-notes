@@ -93,3 +93,5 @@ My name is Kyle Hoac, and I am currently an aspiring software developer studying
 [==> Reading Notes 6](401read6.md)
 
 [==> Reading Notes 7](401read7.md)
+
+[==> Reading Notes 8](401read8.md)
